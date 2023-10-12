@@ -23,4 +23,4 @@ To run this app on your Android device or emulator, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/stopwatch-app.git
+   git clone https://github.com/73-sk-nahid/Stop_Watch_APP.git
