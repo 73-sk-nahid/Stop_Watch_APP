@@ -12,10 +12,9 @@ This is a simple Android stopwatch app that measures the time elapsed between it
 - Displays time with milliseconds.
 
 ## Screenshots
-
-![Start the Stopwatch](screenshots/start.png)
-![Stop the Stopwatch](screenshots/stop.png)
-![Reset the Stopwatch](screenshots/reset.png)
+<img src="screenshots/start.png" alt="Stopwatch App Screenshot" width="300" height="600">
+<img src="screenshots/stop.png" alt="Stopwatch App Screenshot" width="300" height="600">
+<img src="screenshots/reset.png" alt="Stopwatch App Screenshot" width="300" height="600">
 
 ## Getting Started
 
